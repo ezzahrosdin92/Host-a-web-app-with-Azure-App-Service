@@ -44,5 +44,14 @@ This module covers how to deploy and manage web applications using Azure App Ser
 - App Service is ideal for simple to moderately complex apps.
 
 ---
+## Step 1: Create Azure App Service
+
+Follow these steps to create an App Service from the Azure portal:
+
+![App Service Creation](./screenshots/app-service-setup.png)
+
+- Choose your subscription and resource group
+- Select runtime stack (e.g., Node.js or Python)
+- Select Free Tier (F1) for test projects
 
 
